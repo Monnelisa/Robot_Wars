@@ -44,11 +44,6 @@ In order to run RobotWars, please use the following commands:
 git clone github.com/Monnelisa/Robot_Wars.git
 ```
 
-###### Change Directory:
-```bash
-cd cpt3_robot_wars
-```
-
 ###### Build jar with maven:
 ```bash
 mvn clean package
